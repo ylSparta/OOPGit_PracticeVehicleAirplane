@@ -4,7 +4,8 @@ using System.Text;
 
 namespace VehicleAirplaneInheritance
 {
-    class Airplane
+    public class Airplane
     {
+
     }
 }
